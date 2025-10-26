@@ -514,7 +514,7 @@ export default function LandingPage() {
                 <div className="flex items-center gap-3 mb-4">
                   <div className="w-16 h-16 rounded-xl overflow-hidden bg-slate-800/50 flex items-center justify-center border border-slate-600/50">
                     <img 
-                      src="/src/assets/_FCX1441.jpg" 
+                      src="/_FCX1441.jpg" 
                       alt="Laurent Garnero - Expert en gestion"
                       className="w-full h-full object-cover object-top rounded-xl"
                     />
